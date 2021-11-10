@@ -7,4 +7,4 @@ else
 fi
 pip3 install -r requirements.txt
 
-python analysis.py
+python data-analysis/analysis.py

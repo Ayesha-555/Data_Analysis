@@ -15,7 +15,7 @@ logging.basicConfig(
 )
 
 random.seed(147)
-df = pd.read_table('C:/Users/Ayesha Amin/PycharmProjects/PCA/pca_toy.txt')
+df = pd.read_table('C:/Users/Ayesha Amin/PycharmProjects/projects/pca/Data/pca_toy.txt')
 logging.info('reading the data')
 print(df)
 
